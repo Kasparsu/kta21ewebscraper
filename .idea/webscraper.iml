@@ -115,6 +115,8 @@
       <excludeFolder url="file://$MODULE_DIR$/vendor/psr/http-client" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/psr/event-dispatcher" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/dom-crawler" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/masterminds/html5" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
