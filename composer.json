@@ -1,0 +1,17 @@
+{
+    "name": "kaspa/webscraper",
+    "autoload": {
+        "psr-4": {
+            "Scraper\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kaspar Martin Suursalu",
+            "email": "kasparsu@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.5"
+    }
+}
